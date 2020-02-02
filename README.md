@@ -1,8 +1,7 @@
 # PyGObject-GstRtspServer
-#### Simple implementetion of GstRtspServer using Python GObject Introspection
+#### Simple implementation of GstRtspServer using Python GObject Introspection
 I've found no examples of Gstreamer's RTSP server implementation using GObject Python introspection, so this is a working script deducted from the C examples available at https://gitlab.freedesktop.org/gstreamer/gst-rtsp-server.
 It could be useful for Rasperry Pi camera stream projects.
-Cheers
 
 Install dependencies
 ------------
